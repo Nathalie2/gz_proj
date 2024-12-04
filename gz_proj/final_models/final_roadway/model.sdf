@@ -1,0 +1,1081 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="roadway_model">
+    <static>true</static>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model</uri>
+      <name>road_1</name>
+      <pose>40.259 0 0 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_1</name>
+      <pose>-4 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_2</name>
+      <pose>0 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_3</name>
+      <pose>4 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_4</name>
+      <pose>8 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_5</name>
+      <pose>12 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_6</name>
+      <pose>16 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_7</name>
+      <pose>20 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_8</name>
+      <pose>24 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_9</name>
+      <pose>28 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_10</name>
+      <pose>32 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_11</name>
+      <pose>36 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_12</name>
+      <pose>40 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_13</name>
+      <pose>44 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_14</name>
+      <pose>48 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_15</name>
+      <pose>52 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_16</name>
+      <pose>56 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_17</name>
+      <pose>60 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_18</name>
+      <pose>64 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_19</name>
+      <pose>68 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_20</name>
+      <pose>72 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_21</name>
+      <pose>76 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_22</name>
+      <pose>80 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model3</uri>
+      <name>road_intersect</name>
+      <pose>88.2455 -0.660589 0 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/roadinter_model</uri>
+      <name>road_intersect_turn</name>
+      <pose>89.7815 38.078 0 0 -0 1.21297</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/roadinter_model</uri>
+      <name>road_intersect_turn_1</name>
+      <pose>121.719 37.6818 0 0 0 -1.23485</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/roadinter_model</uri>
+      <name>road_intersect_turn_2</name>
+      <pose>121.519 -38.6943 0 0 -0 1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/roadinter_model</uri>
+      <name>road_intersect_turn_3</name>
+      <pose>89.6622 -39.1968 0 0 0 -1.23485</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model4</uri>
+      <name>road_intersect_straight</name>
+      <pose>105.579 -41.9238 0 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str_1</name>
+      <pose>93.4718 -41.9238 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str_2</name>
+      <pose>97.4718 -41.9238 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str_3</name>
+      <pose>101.472 -41.9238 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str_4</name>
+      <pose>105.472 -41.9238 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str_5</name>
+      <pose>109.472 -41.9238 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str_6</name>
+      <pose>113.472 -41.9238 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str_7</name>
+      <pose>117.472 -41.9238 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model4</uri>
+      <name>road_intersect_straight_1</name>
+      <pose>105.782 40.885 0 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str1_1</name>
+      <pose>93.4718 40.885 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str1_2</name>
+      <pose>97.4718 40.885 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str1_3</name>
+      <pose>101.472 40.885 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str1_4</name>
+      <pose>105.472 40.885 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str1_5</name>
+      <pose>109.472 40.885 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str1_6</name>
+      <pose>113.472 40.885 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_str1_7</name>
+      <pose>117.472 40.885 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model3</uri>
+      <name>road_intersect_1</name>
+      <pose>122.973 -0.022883 0 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_4</name>
+      <pose>122.973 31.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_5</name>
+      <pose>122.973 27.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_6</name>
+      <pose>122.973 23.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_7</name>
+      <pose>122.973 19.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_8</name>
+      <pose>122.973 15.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_9</name>
+      <pose>122.973 11.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_10</name>
+      <pose>122.973 7.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_11</name>
+      <pose>122.973 -4.24563 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_12</name>
+      <pose>122.973 -8.24563 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_13</name>
+      <pose>122.973 -12.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_14</name>
+      <pose>122.973 -16.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_15</name>
+      <pose>122.973 -20.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_16</name>
+      <pose>122.973 -24.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_17</name>
+      <pose>122.973 -28.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter2_18</name>
+      <pose>122.973 -32.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_32</name>
+      <pose>128.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_33</name>
+      <pose>132.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_34</name>
+      <pose>136.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_35</name>
+      <pose>140.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_36</name>
+      <pose>144.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_37</name>
+      <pose>148.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_38</name>
+      <pose>152.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_39</name>
+      <pose>156.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_40</name>
+      <pose>160.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_41</name>
+      <pose>164.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_42</name>
+      <pose>168.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_43</name>
+      <pose>172.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_44</name>
+      <pose>176.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_45</name>
+      <pose>180.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_46</name>
+      <pose>184.634 0 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter4</name>
+      <pose>88.2911 31.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter5</name>
+      <pose>88.2911 27.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter6</name>
+      <pose>88.2911 23.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter7</name>
+      <pose>88.2911 19.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter8</name>
+      <pose>88.2911 15.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter9</name>
+      <pose>88.2911 11.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter10</name>
+      <pose>88.2911 7.1058 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter11</name>
+      <pose>88.2911 -4.24563 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter12</name>
+      <pose>88.2911 -8.24563 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter13</name>
+      <pose>88.2911 -12.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter14</name>
+      <pose>88.2911 -16.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter15</name>
+      <pose>88.2911 -20.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter16</name>
+      <pose>88.2911 -24.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter17</name>
+      <pose>88.2911 -28.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_inter18</name>
+      <pose>88.2911 -32.2456 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model3</uri>
+      <name>road_3</name>
+      <pose>187.996 35.9758 0 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_47</name>
+      <pose>187.996 4.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_48</name>
+      <pose>187.996 8.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_49</name>
+      <pose>187.996 12.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_50</name>
+      <pose>187.996 16.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_51</name>
+      <pose>187.996 20.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_52</name>
+      <pose>187.996 24.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_53</name>
+      <pose>187.996 28.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_54</name>
+      <pose>187.996 32.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_55</name>
+      <pose>187.996 36.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_56</name>
+      <pose>187.996 40.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_57</name>
+      <pose>187.996 44.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_58</name>
+      <pose>187.996 48.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_59</name>
+      <pose>187.996 52.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_60</name>
+      <pose>187.996 56.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_61</name>
+      <pose>187.996 60.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_62</name>
+      <pose>187.996 64.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_63</name>
+      <pose>187.996 68.9758 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model3</uri>
+      <name>road_4</name>
+      <pose>219.818 72.4253 0 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_64</name>
+      <pose>190.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_65</name>
+      <pose>194.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_66</name>
+      <pose>198.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_67</name>
+      <pose>202.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_68</name>
+      <pose>206.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_69</name>
+      <pose>210.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_70</name>
+      <pose>214.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_71</name>
+      <pose>218.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_72</name>
+      <pose>222.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_73</name>
+      <pose>226.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_74</name>
+      <pose>230.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_75</name>
+      <pose>234.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_76</name>
+      <pose>238.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_77</name>
+      <pose>242.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_78</name>
+      <pose>246.818 72.4253 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model3</uri>
+      <name>road_5</name>
+      <pose>251.8 39.8227 0 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_79</name>
+      <pose>251.8 68.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_80</name>
+      <pose>251.8 64.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_81</name>
+      <pose>251.8 60.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_82</name>
+      <pose>251.8 56.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_83</name>
+      <pose>251.8 52.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_84</name>
+      <pose>251.8 48.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_85</name>
+      <pose>251.8 44.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_86</name>
+      <pose>251.8 40.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_87</name>
+      <pose>251.8 36.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_88</name>
+      <pose>251.8 32.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_89</name>
+      <pose>251.8 28.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_90</name>
+      <pose>251.8 24.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_91</name>
+      <pose>251.8 20.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_92</name>
+      <pose>251.8 16.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_93</name>
+      <pose>251.8 12.8227 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model</uri>
+      <name>road_6</name>
+      <pose>296.578 7.75504 0 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_94</name>
+      <pose>256.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_95</name>
+      <pose>260.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_96</name>
+      <pose>264.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_97</name>
+      <pose>268.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_98</name>
+      <pose>272.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_99</name>
+      <pose>276.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_100</name>
+      <pose>280.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_101</name>
+      <pose>284.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_102</name>
+      <pose>288.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_103</name>
+      <pose>292.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_104</name>
+      <pose>296.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_105</name>
+      <pose>300.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_106</name>
+      <pose>304.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_107</name>
+      <pose>308.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_108</name>
+      <pose>312.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_109</name>
+      <pose>316.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_110</name>
+      <pose>320.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_111</name>
+      <pose>324.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_112</name>
+      <pose>328.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_line_model</uri>
+      <name>road_line_113</name>
+      <pose>332.578 7.75504 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/road_model3</uri>
+      <name>road_2</name>
+      <pose>156.118 0.0783 0 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model</uri>
+      <name>yellow_line_0</name>
+      <pose>40.2513 2.94638 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model</uri>
+      <name>yellow_line_1</name>
+      <pose>40.2513 -2.94638 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2</name>
+      <pose>85.3114 18.6527 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_3</name>
+      <pose>85.3116 -18.6038 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_4</uri>
+      <name>yellow_line_4</name>
+      <pose>91.2221 -0.473941 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_4</uri>
+      <name>yellow_line_4_1</name>
+      <pose>120.03 -0.253313 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1</name>
+      <pose>125.886 18.6792 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2</name>
+      <pose>125.866 -18.8015 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_1</name>
+      <pose>104.489 43.828 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_2</name>
+      <pose>104.306 -44.8272 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_3</uri>
+      <name>yellow_line_2_1_3</name>
+      <pose>105.234 -38.9666 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_3</uri>
+      <name>yellow_line_2_1_4</name>
+      <pose>105.448 37.918 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_turn</uri>
+      <name>yellow_line_2_1_5</name>
+      <pose>87.025 39.1087 0.05 0 -0 1.21297</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_turn</uri>
+      <name>yellow_line_2_1_5_1</name>
+      <pose>124.09 -40.2531 0.05 0 -0 1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_turn</uri>
+      <name>yellow_line_2_1_5_1_1</name>
+      <pose>124.31 39.1073 0.05 0 0 -1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_turn</uri>
+      <name>yellow_line_2_1_5_1_2</name>
+      <pose>86.9124 -40.1604 0.05 0 0 -1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3</name>
+      <pose>91.9429 -36.7679 0.05 0 0 -1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_1</name>
+      <pose>119.299 35.6789 0.05 0 0 -1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_2</name>
+      <pose>119.155 -36.5739 0.05 0 -0 1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_2_1</name>
+      <pose>125.104 -37.3497 0.05 0 -0 1.2348</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_2_2</name>
+      <pose>92.0529 35.6666 0.05 0 -0 1.213</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1</name>
+      <pose>141.695 -2.86628 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1_1</name>
+      <pose>175.315 -2.867 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1_2</name>
+      <pose>169.082 3.01868 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1_3</name>
+      <pose>141.574 3.0187 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6</name>
+      <pose>185.071 18.6348 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_2_3</name>
+      <pose>157.445 -2.867 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6_1</name>
+      <pose>185.086 50.0546 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6_2</name>
+      <pose>190.917 12.86 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6_3</name>
+      <pose>190.945 44.2299 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_turn</uri>
+      <name>yellow_line_2_1_5_1_1_1</name>
+      <pose>190.946 64.4166 0.05 0 0 -1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_turn</uri>
+      <name>yellow_line_2_1_5_1_1_1_1</name>
+      <pose>185.086 70.4372 0.05 0 0 -1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_4</uri>
+      <name>yellow_line_4_1_1</name>
+      <pose>219.086 75.3712 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_4</uri>
+      <name>yellow_line_4_1_1_1</name>
+      <pose>282.866 4.81012 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1_2_1</name>
+      <pose>206.636 69.4848 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1_2_1_1</name>
+      <pose>233.02 69.4848 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6_3_1</name>
+      <pose>254.76 59.6639 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6_3_1_1</name>
+      <pose>254.74 28.2107 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6_3_1_2</name>
+      <pose>248.846 53.7357 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_1_6_3_1_3</name>
+      <pose>248.846 22.7876 0.05 0 -0 1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_4</uri>
+      <name>yellow_line_4_1_1_1_1</name>
+      <pose>288.696 10.6904 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1_2_1_1_1</name>
+      <pose>325.77 4.8101 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_2</uri>
+      <name>yellow_line_2_2_1_2_1_1_2</name>
+      <pose>325.698 10.6904 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3</name>
+      <pose>85.3116 -32.9879 0.05 0 0 -1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_1</name>
+      <pose>254.74 13.1701 0.05 0 0 -1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_2</name>
+      <pose>248.846 7.32249 0.05 0 0 -1.57</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_3</name>
+      <pose>252.33 75.3712 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_4</name>
+      <pose>182.561 3.0187 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_5</name>
+      <pose>115.883 -38.9666 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_5_1</name>
+      <pose>120.073 -44.8272 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_5_2</name>
+      <pose>120.113 43.8282 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_5_3</name>
+      <pose>116.033 37.918 0.05 0 -0 0</pose>
+    </include>
+    <include>
+      <uri>/home/nat/ros2_parking/src/gz_proj/final_models/final_roadway/yellow_line_model_short</uri>
+      <name>yellow_line_2_1_5_1_3_3_5_4</name>
+      <pose>125.866 -32.5417 0.05 0 -0 1.57</pose>
+    </include>
+  </model>
+</sdf>

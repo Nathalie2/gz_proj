@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="road_line">
+    <static>true</static>  <!-- Line remains stationary -->
+    <link name="line_link">
+      <!-- Visual for the white line -->
+      <visual name="line_visual">
+        <geometry>
+          <box>
+            <size>1 0.1 0.01</size>  <!-- Length, width, height -->
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>   <!-- White color -->
+          <diffuse>1 1 1 1</diffuse>   <!-- White diffuse light -->
+          <specular>0.5 0.5 0.5 1</specular> <!-- Slight shine -->
+        </material>
+      </visual>
+
+      <!-- Collision geometry (optional) -->
+      <collision name="line_collision">
+        <geometry>
+          <box>
+            <size>1 0.1 0.01</size>
+          </box>
+        </geometry>
+      </collision>
+    </link>
+  </model>
+</sdf>

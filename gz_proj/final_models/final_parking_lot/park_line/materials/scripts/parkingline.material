@@ -1,0 +1,18 @@
+material ParkingLineMaterial
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture parking_line_texture.jpg  <!-- Path to your parking line texture -->
+      }
+
+      ambient 1 1 1 1     <!-- Ambient light -->
+      diffuse 1 1 1 1     <!-- Diffuse light -->
+      specular 0.5 0.5 0.5 1   <!-- Specular reflection (optional) -->
+      emissive 0 0 0 0    <!-- No emissive (glowing) light -->
+    }
+  }
+}
